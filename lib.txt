@@ -1,0 +1,4 @@
+https://search.maven.org/remotecontent?filepath=com/formdev/flatlaf/3.5.1/flatlaf-3.5.1.jar
+https://github.com/rhwood/jinputvalidator/releases/download/0.9.0/jinputvalidator-0.9.0.jar
+https://github.com/LGoodDatePicker/LGoodDatePicker/releases/download/v11.2.1-Standard/LGoodDatePicker-11.2.1.jar
+https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-j-9.0.0.tar.gz
